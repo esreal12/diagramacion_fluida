@@ -1,0 +1,9 @@
+.section-intro {
+    background-image: linear-gradient(to right bottom, $color-cian, $color-cian-dark);
+    padding: $layout-intro;
+}
+
+.section-info {
+    padding: $layout-info;
+    background-color: $color-grey-light;
+}
